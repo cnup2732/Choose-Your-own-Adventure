@@ -1,0 +1,28 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+h1{
+  font-family: 'Oswald', sans-serif;
+  font-size: 75px;
+}
+body {
+  background-color: purple;
+  color: white;
+}
+h2{
+  font-size: 70px;
+}
+p {
+  font-size: 40px
+}
+.start {
+  width: 75%;
+  height:50px;
+  font-size: 20px;
+}
+img{
+  width: 50%;
+  height: 200px;
+}
+
+#dv{
+-ms-transform: rotate(7deg); /* IE 9 */
+}
